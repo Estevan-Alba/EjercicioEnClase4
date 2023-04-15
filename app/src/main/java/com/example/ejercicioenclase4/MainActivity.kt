@@ -398,5 +398,7 @@ fun metodoLista() {
     println("La diferencia entre A y B: $diferencia")
     println("La diferencia entre A y B: $diferencia2")
 
+    println("compruebame")
+
 
 }
