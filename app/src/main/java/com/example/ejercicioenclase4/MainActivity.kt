@@ -398,7 +398,5 @@ fun metodoLista() {
     println("La diferencia entre A y B: $diferencia")
     println("La diferencia entre A y B: $diferencia2")
 
-    println("compruebame123 si funciono ")
-    /*este es el mensaje */
-
+    println("comprueba me por favor te lo pido señor sati")
 }
