@@ -409,9 +409,7 @@ fun metodoLista() {
 
     println("Claro que si podemos ser amigos")
 
-
-
-    println("primero commit y despues Push  ")
+    println("Primero vamos a hacer esto y luego lo otro ")
 
 
 }
