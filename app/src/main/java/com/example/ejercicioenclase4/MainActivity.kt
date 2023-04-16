@@ -404,4 +404,8 @@ fun metodoLista() {
     println("Hola soy yo")
 
     println("hola ahora soy yo: andres")
+
+    print("amigos somos todos")
+
+
 }
