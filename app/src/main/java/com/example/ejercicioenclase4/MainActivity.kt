@@ -400,4 +400,6 @@ fun metodoLista() {
 
     println("comprueba me por favor te lo pido señor sati")
     println("relajado no es para suplicas ")
+
+    println("Hola soy yo")
 }
