@@ -407,7 +407,11 @@ fun metodoLista() {
 
     print("amigos somos todos")
 
-    println("no somos amigos todos, no invente ")
+    println("Claro que si podemos ser amigos")
+
+
+
+    println("primero commit y despues Push ")
 
 
 }
