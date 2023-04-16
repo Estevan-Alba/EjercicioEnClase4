@@ -414,7 +414,7 @@ fun metodoLista() {
     println("esto y lo otro si ñorse")
 
 
-    println("hola niñaaaaaaa soy el mas nea de la clase")
+    println(" esto va a funcionar: dile a la tia que me preste el celular")
 
 
 
