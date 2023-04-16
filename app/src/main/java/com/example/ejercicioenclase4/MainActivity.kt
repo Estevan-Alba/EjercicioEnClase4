@@ -411,5 +411,7 @@ fun metodoLista() {
 
     println("Primero vamos a hacer esto y luego lo otro ")
 
+    println("esto y lo otro si ñorse")
+
 
 }
