@@ -411,7 +411,7 @@ fun metodoLista() {
 
 
 
-    println("primero commit y despues Push ")
+    println("primero commit y despues Push  ")
 
 
 }
