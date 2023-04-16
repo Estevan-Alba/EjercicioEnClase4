@@ -416,6 +416,8 @@ fun metodoLista() {
 
     println(" esto va a funcionar: dile a la tia que me preste el celular")
 
+    print("hola a todos")
+
 
 
 
